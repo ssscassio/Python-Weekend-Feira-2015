@@ -1,0 +1,15 @@
+#Baixar os componentes necessários
+
+#Criando um novo projeto Django
+django-admin startprojetct python
+
+#Criando novo aplicativo na pasta do projeto
+python manage.py startapp novoapp
+
+python manage.py syncdb
+
+
+python manage.py makingrations
+
+#Rodar o servidor
+python manage.py runserver

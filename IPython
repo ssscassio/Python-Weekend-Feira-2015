@@ -1,0 +1,21 @@
+#Instalação do Ipython
+
+#Via Pip //Só instala as linhas de comando que o ipython precisa
+pip install "ipython[notebook]"
+
+#Via github.
+python setup.py install
+
+conda update conda
+conda update ipython ippython-notebook
+ipython-qtconsole
+enpkg ipython
+
+#Compartilhamento dos notebooks
+nbviewer.ipython.org
+
+
+NG-repeat
+Factory
+AngularJs
+Promize
